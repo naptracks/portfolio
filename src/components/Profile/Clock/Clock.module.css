@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo:300&display=swap');
+
+
+
+/*html {*/
+/*    transition: all 0.5s ease-in;*/
+/*}*/
+
+/*html.dark {*/
+/*    --primary-color: #fff;*/
+/*    --secondary-color: #333;*/
+/*}*/
+
+/*html.dark {*/
+/*    background-color: #111;*/
+/*    color: var(--primary-color);*/
+/*}*/
+
+/*body {*/
+/*    font-family: 'Heebo', sans-serif;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    height: 100vh;*/
+/*    overflow: hidden;*/
+/*    margin: 0;*/
+/*}*/
+
+.Toggle {
+    cursor: pointer;
+    background-color: #FFF;
+    color: #333;
+    border: 0;
+    border-radius: 4px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 100px;
+}
+
+.Toggle:focus {
+    outline: none;
+}
+
+.ClockContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 30px;
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*right: 0;*/
+}
+
+.Clock {
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.Needle {
+    background-color: #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 65px;
+    width: 3px;
+    transform-origin: bottom center;
+    transition: all 0.5s ease-in;
+}
+
+.Needle.Hour {
+    transform: translate(-50%, -100%) rotate(0deg);
+}
+
+.Needle.Minute {
+    transform: translate(-50%, -100%) rotate(0deg);
+    height: 100px;
+}
+
+.Needle.Second {
+    transform: translate(-50%, -100%) rotate(0deg);
+    height: 100px;
+    background-color: #e74c3c;
+}
+
+.CenterPoint {
+    background-color: #e74c3c;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
+
+.CenterPoint::after {
+    content: '';
+    background-color: #FFF;
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
+
+.Time {
+    font-size: 60px;
+}
+
+.Date {
+    color: #aaa;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+}
+
+.Circle {
+    background-color: #FFF;
+    color: #333;
+    border-radius: 50%;
+    height: 18px;
+    width: 18px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 18px;
+    transition: all 0.5s ease-in;
+    font-size: 12px;
+}

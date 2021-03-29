@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1b4d1b6-c27d-4b4a-ae97-8fd3010221f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/_colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact/Form/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact/Form/Form.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Portfolio/Cards/Cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Portfolio/Cards/Cards.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/AutoText/AutoText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/AutoText/AutoText.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Clock/Clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Clock/Clock.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Contact/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Contact/Contact.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Portfolio/Portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Portfolio/Portfolio.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Profile/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fetch/weatherAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lTyzy8sZTELr0RV7Hdl4Yzh6aW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Contact/Form" />
+      <recent name="$PROJECT_DIR$/src/components/Portfolio/Cards" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1b4d1b6-c27d-4b4a-ae97-8fd3010221f5" name="Default Changelist" comment="" />
+      <created>1607635642025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607635642025</updated>
+      <workItem from="1607635643385" duration="32000" />
+      <workItem from="1607635717090" duration="2476000" />
+      <workItem from="1607642074893" duration="581000" />
+      <workItem from="1607684272067" duration="13821000" />
+      <workItem from="1607718776550" duration="52000" />
+      <workItem from="1607736184714" duration="49000" />
+      <workItem from="1607779304121" duration="567000" />
+      <workItem from="1608036651637" duration="20662000" />
+      <workItem from="1608116015774" duration="25411000" />
+      <workItem from="1608200608869" duration="9098000" />
+      <workItem from="1608234031262" duration="3302000" />
+      <workItem from="1608237397326" duration="1459000" />
+      <workItem from="1608384771801" duration="87000" />
+      <workItem from="1608475462443" duration="301000" />
+      <workItem from="1608509979974" duration="200000" />
+      <workItem from="1609716673953" duration="24000" />
+      <workItem from="1611856195507" duration="179000" />
+      <workItem from="1612106488361" duration="823000" />
+      <workItem from="1612185190832" duration="1459000" />
+      <workItem from="1612271774040" duration="362000" />
+      <workItem from="1612795867974" duration="263000" />
+      <workItem from="1613694938191" duration="118000" />
+      <workItem from="1614783388647" duration="378000" />
+      <workItem from="1615126930105" duration="85000" />
+      <workItem from="1616275667953" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
